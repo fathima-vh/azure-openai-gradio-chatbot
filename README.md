@@ -42,5 +42,5 @@ A simple streaming chatbot built with Gradio and Azure OpenAI. This project demo
 1. **Clone the repository** (or copy the code into your project directory):
 
    ```bash
-   git clone https://github.com/your-username/azure-openai-gradio-chatbot.git
+   git clone https://github.com/fathima-vh/conversational-chatbot.git
    cd conversational-chatbot
